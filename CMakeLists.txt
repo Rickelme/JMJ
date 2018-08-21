@@ -219,5 +219,7 @@ include_directories(
 ##add_executable(deteccaoFacial src/deteccaoFacial.cpp)
 ##target_link_libraries(deteccaoFacial ${catkin_LIBRARIES}  ${OpenCV_LIBRARIES})
 
-add_executable(identificarPlaca src/identificarPlaca.cpp)
-target_link_libraries(identificarPlaca																																																																																																																																																																					 ${catkin_LIBRARIES}  ${OpenCV_LIBRARIES})
+##add_executable(identificarPlaca src/identificarPlaca.cpp)
+##target_link_libraries(identificarPlaca																																																																																																																																																																					 ${catkin_LIBRARIES}  ${OpenCV_LIBRARIES})
+
+
